@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 145,
+    "uniqCompNum": 146,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -787,22 +787,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "1. Shape Of You",
-          "text": "&nbsp; &nbsp; Ed Sheeran &nbsp; &nbsp; <a href=\"vt.mp3\">Download</a>"
-        },
-        {
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-40",
-          "_params": {
-            "sound": "https://soundcloud.com/mobirise/blue-skies",
-            "autoplay": false,
-            "fullWidth": true
-          },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+          "text": "&nbsp; &nbsp; Ed Sheeran &nbsp; &nbsp; <a href=\"vt\">Download</a>"
         },
         {
           "_styles": {
