@@ -793,7 +793,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "1. Shape Of You",
-          "text": "<p>&nbsp; &nbsp; Ed Sheeran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <b>Download</b></p>"
+          "text": "<p>&nbsp; &nbsp; Ed Sheeran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <b><a href=\"Shape of you.mp4\">Download</a></b></p>"
         },
         {
           "_styles": {
