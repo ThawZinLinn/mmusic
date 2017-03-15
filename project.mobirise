@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M chart",
-    "currentPage": "global chart.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 146,
+    "uniqCompNum": 162,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -60,10 +60,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -95,24 +95,26 @@
           "_anchor": "ext_menu-1s",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mmlogoforwebsite-236x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -135,11 +137,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3l",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-for-website-2000x542.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -147,21 +149,23 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.6",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Local Chart",
+          "text": "<p>Currently we don't have to display yet ;( because we don't have any data ;(</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -197,7 +201,7 @@
             "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "1. ----",
+          "title": "1. ----aေေေေေေေေေ",
           "text": "&nbsp; &nbsp; ----"
         },
         {
@@ -691,17 +695,19 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mmlogoforwebsite-236x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -724,11 +730,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2w",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-for-website-2000x542.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -736,35 +742,35 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Global Chart",
+          "text": "<p>Chart source is from Billboard .Our chart is still collecting data :)</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
               "text-align": "left",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-3a",
+          "_anchor": "msg-box2-4g",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -787,13 +793,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "1. Shape Of You",
-          "text": "&nbsp; &nbsp; Ed Sheeran &nbsp; &nbsp; <a href=\"vt.mp3\">Download</a>&nbsp;Play"
+          "text": "&nbsp; &nbsp; Ed Sheeran"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -830,13 +837,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "2. Bad And Boujee",
-          "text": "&nbsp; &nbsp; Migos featuring Lil Uzi Vert"
+          "text": "&nbsp; &nbsp; &nbsp;Migos featuring Lil Uzi Vert"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -873,13 +881,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "3. I Don't Wanna To Live Forever",
-          "text": "&nbsp; &nbsp; Zayn / Taylar Swift"
+          "text": "&nbsp; &nbsp; &nbsp;Zayn / Taylar Swift"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -916,13 +925,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "4. That's What I Like",
-          "text": "&nbsp; &nbsp; Bruno Mars"
+          "text": "&nbsp; &nbsp; &nbsp;Bruno Mars"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -959,13 +969,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "5. Something Just Like This",
-          "text": "&nbsp; &nbsp; The Chainsmokers &amp; Coldplay"
+          "text": "&nbsp; &nbsp; &nbsp;The Chainsmokers &amp; Coldplay"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -1002,13 +1013,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "6. Love On The Brain",
-          "text": "&nbsp; &nbsp; Rihanna"
+          "text": "&nbsp; &nbsp; &nbsp;Rihanna"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -1045,13 +1057,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "7. Paris",
-          "text": "&nbsp; &nbsp; The Chainsmokers"
+          "text": "&nbsp; &nbsp; &nbsp;The Chainsmokers"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -1088,13 +1101,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "8. Tunnel Vision",
-          "text": "&nbsp; &nbsp; Kodak Black"
+          "text": "&nbsp; &nbsp; &nbsp;Kodak Black"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -1131,13 +1145,14 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "9. Bounce Back",
-          "text": "&nbsp; &nbsp; Big Sean"
+          "text": "&nbsp; &nbsp; &nbsp;Big Sean"
         },
         {
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff",
@@ -1174,7 +1189,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "10. Closer",
-          "text": "&nbsp; &nbsp; The Chainsmokers featuring Halsey"
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp;The Chainsmokers featuring Halsey"
         },
         {
           "_inherit": "social-buttons2",
@@ -1280,17 +1295,19 @@
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mmlogoforwebsite-236x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1311,13 +1328,13 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-3x",
+          "_anchor": "msg-box8-4h",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-for-website-2000x542.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1331,8 +1348,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Nothing Here :D",
+          "text": "<p>We will working on it.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1364,8 +1381,8 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "BACKGROUND IMAGE",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "title": "Please comeback soon :)",
+          "caption": "<p>we will add some news later :)</p>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1383,7 +1400,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-3z",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,

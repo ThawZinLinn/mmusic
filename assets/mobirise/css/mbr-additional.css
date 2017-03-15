@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -443,11 +445,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-1s .link {
-  font-size: 0.75rem;
+  font-size: 0.85rem;
 }
 #ext_menu-1s .dropdown-item,
 #ext_menu-1s .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.921rem;
 }
 #ext_menu-1s .link:hover,
 #ext_menu-1s .dropdown-item:hover,
@@ -493,6 +495,7 @@ h6,
 #msg-box2-3m .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box2-3m .mbr-section-subtitle {
   color: #ffffff;
@@ -674,19 +677,20 @@ h6,
 #msg-box8-2w p {
   color: #fff;
 }
-#msg-box2-3a .mbr-section-title {
+#msg-box2-4g .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
-#msg-box2-3a .mbr-section-subtitle {
+#msg-box2-4g .mbr-section-subtitle {
   color: #ffffff;
   text-align: left;
   font-family: 'Oxygen', sans-serif;
-  font-size: 15px;
 }
 #msg-box2-3b .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3b .mbr-section-subtitle {
   color: #ffffff;
@@ -697,6 +701,7 @@ h6,
 #msg-box2-3c .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3c .mbr-section-subtitle {
   color: #ffffff;
@@ -707,6 +712,7 @@ h6,
 #msg-box2-3d .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3d .mbr-section-subtitle {
   color: #ffffff;
@@ -717,6 +723,7 @@ h6,
 #msg-box2-3e .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3e .mbr-section-subtitle {
   color: #ffffff;
@@ -727,6 +734,7 @@ h6,
 #msg-box2-3i .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3i .mbr-section-subtitle {
   color: #ffffff;
@@ -737,6 +745,7 @@ h6,
 #msg-box2-3j .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3j .mbr-section-subtitle {
   color: #ffffff;
@@ -747,6 +756,7 @@ h6,
 #msg-box2-3h .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3h .mbr-section-subtitle {
   color: #ffffff;
@@ -757,6 +767,7 @@ h6,
 #msg-box2-3g .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3g .mbr-section-subtitle {
   color: #ffffff;
@@ -767,6 +778,7 @@ h6,
 #msg-box2-3f .mbr-section-title {
   color: #fff;
   font-size: 20px;
+  text-align: left;
 }
 #msg-box2-3f .mbr-section-subtitle {
   color: #ffffff;
@@ -844,8 +856,8 @@ h6,
 #ext_menu-1s .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-3x .mbr-section-title,
-#msg-box8-3x p {
+#msg-box8-4h .mbr-section-title,
+#msg-box8-4h p {
   color: #fff;
 }
 #content5-3y .mbr-section-title,
