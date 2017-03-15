@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "M chart",
-    "currentPage": "index.html",
+    "currentPage": "global chart.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -793,7 +793,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "1. Shape Of You",
-          "text": "&nbsp; &nbsp; Ed Sheeran"
+          "text": "<p>&nbsp; &nbsp; Ed Sheeran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <b>Download</b></p>"
         },
         {
           "_styles": {
